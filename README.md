@@ -23,15 +23,19 @@ git clone https://github.com/Laxyny/FakeGPS.git
 
 
 2. Install the required dependencies
-
+```bash
 cd FakeGPS
+```
+```bash
 flutter pub get
+```
 
 
 
 3. Run the app on your device or emulator
-
+```bash
 flutter run
+```
 
 
 
