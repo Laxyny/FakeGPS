@@ -16,8 +16,9 @@ Please note that using fake GPS locations may be against the terms of service of
 To set up the project, follow these steps:
 
 1. Clone the repository to your local machine
-
+```bash
 git clone https://github.com/Laxyny/FakeGPS.git
+```
 
 
 
