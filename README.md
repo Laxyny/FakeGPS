@@ -25,8 +25,6 @@ git clone https://github.com/Laxyny/FakeGPS.git
 2. Install the required dependencies
 ```bash
 cd FakeGPS
-```
-```bash
 flutter pub get
 ```
 
